@@ -98,7 +98,7 @@ zIndex | Numérico | 9 | z-index del popup del datePicker
     0 -> Domingo
     1 -> Lunes
     ...
-    6 -> Sábadp
+    6 -> Sábado
 -->
 <sb-dtp ng-model='date' options='{gregorianStartDay: 1}'></sb-dtp>
 ```
